@@ -2,9 +2,9 @@
 
 url: "http://ifromzstuff.github.io"
 title: "Fromz Prajuktar"
-description: "Personal website and blog of Aron Bordin, blogging mainly for tech."
-keywords: "aron, barreira, bordin, developer, researcher, blog"
-favicon: "/img/favicon.ico"
+description: "Fromz Prajuktar, Personal website and Profile."
+keywords: "fromz, prajuktar, kaewmanee, developer, researcher, blog"
+favicon: "/img/favicon.png"
 black-favicon: "/img/favicon.png"
 google-tracking-id: "UA-71824673-1"
 disqus-shortname: "pkfrom"
@@ -15,7 +15,7 @@ disqus-shortname: "pkfrom"
 
 pages_list:
   About: 'about'
-  Blog: 'blog'
+#  Blog: 'blog'
   Career: 'career'
   Awards: 'awards'
   Contact: 'contact'
