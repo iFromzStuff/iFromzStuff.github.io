@@ -56,22 +56,10 @@ events:
 
 
 awards:
-  - title: "OBFEP - Brazilian Physics Olympiad - Bronze Medal"
+  - title: "title"
     date: "2014"
-  - title: "OBA - Brazilian Astronomy Olympiad - Golden Medal"
+  - title: "title"
     date: "2014"
-  - title: "OBA - Brazilian Astronomy Olympiad - Silver Medal"
-    date: "2013"
-  - title: "OBI - Brazilian Computing Olympiad - Honorable Mention"
-    date: "2013"
-  - title: "OBI - Brazilian Computing Olympiad - Silver Medal"
-    date: "2012"
-  - title: "OBMEP - Brazilian Mathematical Olympiad - Bronze Medal"
-    date: "2011"
-  - title: "OBMEP - Brazilian Mathematical Olympiad - Bronze Medal"
-    date: "2010"
-  - title: "OBMEP - Brazilian Mathematical Olympiad - Bronze Medal"
-    date: "2009"
 
 # First image of the Career timeline
 career-img: "/img/career/computer.png"
